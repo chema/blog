@@ -1,0 +1,25 @@
+# Ignore Hugo generated files
+/public/
+/resources/
+
+# Ignore Hugo cache
+/resources/_gen/
+
+# Ignore draft content folder
+/content/draft/
+
+# Ignore temporary files
+*.bak
+*.swp
+*~
+
+# Ignore sensitive or environment-specific files
+.env
+.env.*
+secrets.yml
+
+# Ignore user-specific Hugo configuration
+/config.toml.local
+
+# Ignore Hugo lock file
+.hugo_build.lock

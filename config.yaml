@@ -1,0 +1,34 @@
+baseURL: "http://blog.sanfranciscan.org"
+disablePathToLower: true
+languageCode: "en-us"
+
+permalinks:
+  post: ":year/:month/:day/:slug"
+  fixed:  ":title/"
+
+theme: "lanyon-hugo"
+
+Params:
+  title:            "A San Franciscan"
+  tagline:          "Un poquito de todo"
+  description:      "A collection of writings by a San Franciscan named Chema. Un poquito de todo."
+  url:              "http://blog.sanfranciscan.org"
+  baseurl:          ''
+  twitter_username: elsanfranciscan
+  DateForm:         "2006-01-02"
+
+author:
+  name:           'Chema Hernández Gil'
+  url:            https://social.sanfranciscan.org/@chema
+
+paginate:         3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+frontmatter:
+  date:
+  - :filename
+  - :default
