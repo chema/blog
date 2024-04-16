@@ -1,10 +1,8 @@
 ---
-image: /public/img/KenyanContentModerator.jpg
 title: How to Actually Reinvent Content Moderation
 slug: Reinventing-Content-Moderation 
 ---
 
-![A Generated Image of a Kenyan Content Moderator](/public/img/KenyanContentModerator.jpg)
 Anyone who was around the early days of social media remembers the horrible content that circulated. Our feeds are better now, in no small part due to [the millions of dollars spent]([https://www.cnbc.com/2021/02/27/content-moderation-on-social-media.html]) by large corporate social media networks like Facebook and Twitter on content moderation.
 
 But who are the people, the actual individuals, moderating the content and protecting billions of people from the trauma of graphic atrocities and abuse? And are they being fairly compensated and taken care of if [they develop PTSD, depression and a litany of other mental health conditions](https://www.foxglove.org.uk/2020/11/18/open-letter-from-content-moderators-re-pandemic/) related to content moderation?<!--more-->
