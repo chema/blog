@@ -16,7 +16,7 @@ I was a member of the [San Francisco Redistricting Task Force](https://sf.gov/pu
 
 I was a member of the [East Cut Community Benefit District](http://theeastcut.org/about-us/) board of directors (and voted for the name "East Cut") for many years. I'm also a former elected board director of the [San Francisco Bicycle Coalition](http://www.sfbike.org/about/board-of-directors/) and a former elected member of the [Sierra Club, San Francisco local group](https://www.sierraclub.org/san-francisco-bay/leadership-roster#sf) executive committee. I spent many years as a media activist/accredited journalist during the heydays of Indymedia.
 
-You can follow me [in the fediverse](https://social.sanfranciscan.org/@chema). It's like Twitter but better. This site and a few other things are on [Github](https://github.com/chema/). You can verify these accounts using Keyoxide: [https://keyoxide.org/chema@sanfranciscan.org](https://keyoxide.org/chema@sanfranciscan.org)
+You can follow me [in the fediverse](https://social.sanfranciscan.org/@chema). This site and a few other things are on [Github](https://github.com/chema/). You can verify these accounts using Keyoxide: [https://keyoxide.org/chema@sanfranciscan.org](https://keyoxide.org/chema@sanfranciscan.org)
 
 My OpenPGP key fingerprint is [0F11 7D50 7E29 F07C EA59 1D79 86B2 EAA6 E2A3 466F](https://keys.openpgp.org/search?q=chema%40sanfranciscan.org).
 
