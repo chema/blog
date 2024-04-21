@@ -1,5 +1,6 @@
 {
-    "title": "About",
+    "slug": "about",
+	"title": "About",
     "sidebar": true,
     "weight": "1"
 }

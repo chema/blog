@@ -4,7 +4,7 @@ languageCode: "en-us"
 
 permalinks:
   post: ":year/:month/:day/:slug"
-  fixed:  ":title/"
+  fixed:  ":slug/"
 
 theme: "lanyon-hugo"
 
@@ -14,7 +14,6 @@ Params:
   description:      "A collection of writings by a San Franciscan named Chema. Un poquito de todo."
   url:              "http://blog.sanfranciscan.org"
   baseurl:          ''
-  twitter_username: elsanfranciscan
   DateForm:         "2006-01-02"
 
 author:
