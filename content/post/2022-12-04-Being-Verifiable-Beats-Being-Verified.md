@@ -1,6 +1,8 @@
 ---
 date: "2022-12-04T00:00:00Z"
 image: /public/img/greencheckmarktable.jpg
+images:
+  - /public/img/greencheckmarktable.jpg
 title: Being Verifiable Beats Being Verified
 post: Being Verifiable Beats Being Verified
 ---

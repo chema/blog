@@ -1,5 +1,7 @@
 ---
 image: /public/img/KenyanContentModerator.jpg
+images:
+  - /public/img/KenyanContentModerator.jpg
 title: How to Actually Reinvent Content Moderation
 slug: Reinventing-Content-Moderation 
 ---

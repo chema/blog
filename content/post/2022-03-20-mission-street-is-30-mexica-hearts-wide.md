@@ -1,6 +1,8 @@
 ---
 date: "2022-03-20T00:00:00Z"
 image: /public/img/spearstreet.png
+images:
+  - /public/img/spearstreet.png
 title: San Francisco's Mission Street is 30 Mexica Hearts Wide
 slug: mission-street-is-30-mexica-hearts-wide
 ---
