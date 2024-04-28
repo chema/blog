@@ -1,7 +1,11 @@
 ---
+image: /public/img/bikenortonOG.jpg
+images:
+  - /public/img/bikenortonOG.jpg
 title: The Old is New in SF Politics
 slug: the-old-is-new-in-SF-politics
 ---
+![Emperor Norton riding a bike](/public/img/bikenorton.jpg)
 So [some dude is having feverish dreams](https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat) of turning San Francisco into some sort of nightmarish, tech-controlled dystopia.
 
 This desire isn't at all unique. San Francisco has always been packed with people trying to mold the city into their very own personal vision. The only difference is this particular individual has money and influence. He will fail, of course, and he probably already knows it, but sharing his fantasies will still bring him clout among his historically-uneducated peers and attention is addictive.<!--more-->

@@ -4,9 +4,16 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <!-- Open Graph and Twitter Cards -->
+  <!-- Open Graph  Template -->
 {{ template "_internal/opengraph.html" . }}
-{{ template "_internal/twitter_cards.html" . }}
+
+  <title>
+    {{ if .IsHome }}
+      {{ .Site.Params.Title }} &middot; {{ .Site.Params.Tagline }}
+    {{ else }}
+      {{ .Title }} &middot; {{ .Site.Params.Title }}
+    {{ end }}
+  </title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/css/poole.css">
