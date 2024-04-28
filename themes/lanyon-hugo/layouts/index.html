@@ -9,6 +9,12 @@
         <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
         <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
         {{ .Summary }}
+		{{ if .Truncated }}
+		<!-- This <div> includes a read more link, but only if the summary is truncated... -->
+		<div>
+			<a href="{{ .Permalink }}">Read More…</a>
+		</div>
+		{{ end }}
     </div>
   {{ end }}
 </div>
