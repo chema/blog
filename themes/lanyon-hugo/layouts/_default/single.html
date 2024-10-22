@@ -4,6 +4,15 @@
   <h1 class="post-title">{{ .Title }}</h1>
   <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
   {{ .Content }}
+	{{ with .Params.tags }}
+		<hr>
+        <div class="tags">
+            {{ range . }}
+                <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
+    {{ end}}
+	
   {{- if .Site.DisqusShortname -}}
   <hr>
   <h2>Comments</h2>

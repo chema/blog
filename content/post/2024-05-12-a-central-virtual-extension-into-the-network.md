@@ -4,8 +4,10 @@ images:
   - /public/img/ctrvxnet.jpg
 title: "ctrvx.net: A Central Virtual Extension into the Network"
 slug: a-central-virtual-extension-into-the-network
+tags: ['fediverse', 'snac', 'ctrvx.net']
 ---
-![An edited generated pixel image of an old-school computer with the words CTRVX of the green screen ](/public/img/ctrvxnet.jpg)
+{{< figure src="/public/img/ctrvxnet.jpg" caption="An edited generated pixel image of an old-school computer with the words CTRVX of the green screen" >}}
+
 
 After much procrastination, I finally deployed a [snac](https://codeberg.org/grunfink/snac2) fediverse instance today. Snac (an acronym for *social networks are crap*) is a lightweight fediverse server written in C, the only programming language I still use. It is fast, has few dependencies, was simple to install and works well with some solid clients like Tusky and the [Phanpy](https://github.com/cheeaun/phanpy) web client.<!--more-->
 

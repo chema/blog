@@ -2,7 +2,11 @@
 
 <div class="page">
   <h1 class="page-title">{{ .Title }}</h1>
-  {{ .Content }}
+{{ if .Params.toc }}
+<aside>{{ .TableOfContents }}</aside>
+{{ end }}
+
+{{ .Content }}
 </div>
 
 {{ partial "default_foot.html" . }}

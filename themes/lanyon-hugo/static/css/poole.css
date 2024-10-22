@@ -147,6 +147,12 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+figcaption {
+    font-size: 75%; /* Two points smaller (approximately, depending on base font size) */
+    font-style: italic; /* Italic text */
+    color: #555; /* Optional: Slightly lighter color for better readability */
+}
+
 /* Code */
 code,
 pre {
