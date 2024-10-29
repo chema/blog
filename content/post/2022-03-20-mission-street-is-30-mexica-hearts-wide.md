@@ -8,7 +8,7 @@ slug: mission-street-is-30-mexica-hearts-wide
 ---
 San Francisco street dimensions often don't make sense, at least in feet. Many streets in the South of Market, including Mission Street, are 82 feet, 6 inches wide. Other streets in the Western Addition and the Mission District are 68 feet, 9 inches. In a city where any small change to traffic can become a pitched battle, these seemingly-arbitrary street widths show up time and time again.
 
-{{< figure src="/public/img/spearstreet.png" caption="Map of Spear Street in San Francisco" height=60% width=auto >}}
+{{< figure src="/public/img/spearstreet.png" caption="Map of Spear Street in San Francisco" height="60%" width="auto" >}}
 
 <!--more-->
 

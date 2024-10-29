@@ -7,7 +7,7 @@ title: Being Verifiable Beats Being Verified
 post: Being Verifiable Beats Being Verified
 ---
 
-{{< figure src="/public/img/greencheckmarktable.jpg" caption="Green Check Mark on a White Table" height=60% width=auto >}}
+{{< figure src="/public/img/greencheckmarktable.jpg" caption="Green Check Mark on a White Table" height="60%" width="auto" >}}
 
 It goes without saying that knowing that the person you're talking to is *actually* the person you *think* you're talking to is important. That is why Twitter created the infamous verified blue check mark: People wanted an assurance that the Twitter account of a particular government agency or their favorite celebrity was legit and not some dude in a basement impersonating them.
 
