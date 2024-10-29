@@ -8,7 +8,7 @@ slug: mission-street-is-30-mexica-hearts-wide
 ---
 San Francisco street dimensions often don't make sense, at least in feet. Many streets in the South of Market, including Mission Street, are 82 feet, 6 inches wide. Other streets in the Western Addition and the Mission District are 68 feet, 9 inches. In a city where any small change to traffic can become a pitched battle, these seemingly-arbitrary street widths show up time and time again.
 
-{{< figure src="/public/img/spearstreet.png" caption="Map of Spear Street in San Francisco" height=300px >}}
+{{< figure src="/public/img/spearstreet.png" caption="Map of Spear Street in San Francisco" height=60% width=auto >}}
 
 <!--more-->
 
@@ -25,11 +25,11 @@ Dedos or fingers in Spanish are not a common unit of measurement in the Spanish-
 
 I think that dividing the Mexican vara into 48 fingers was the result of a practical metrology arising from imperialism and conquest. By facilitating conversions between Indigenous Mesoamerican lengths, it turned the Mexican vara into a syncretic unit that bridged Pre-Columbian and Colonial eras, all the way to the present.
 
-{{< figure src="/public/img/varadedo.jpg" caption="The vara bar with the dedo markings" height=300px >}}
+{{< figure src="/public/img/varadedo.jpg" caption="The vara bar with the dedo markings" height=60% width=auto >}}
 
 Back to modern San Francisco, streets that today are 82.5 feet wide are actually 30 Mexican varas. 30 Mexican varas is 1,440 fingers, which becomes 30 Mexica *yollotli* or 10 *tlalquahuitl* wide. Streets 68.75 feet wide become 25 *yollotli* or 10 *niquizantli* wide. We begin to see distances and ratios in San Francisco found in great Pre-Columbian cities like Mēxihco-Tenōchtitlan.
 
-<a href="/public/img/aztecunitshuman.png"><img src="/public/img/aztecunitshuman.png" style="padding:6px 6px 6px 6px; width:50%; height:auto; float:left;" /></a>What is most exciting to me about these Indigenous conversions is their human scale, emerging from dense, pre-car (and pre-horse) urban societies that lasted far longer than anything we've created.
+{{< figure src="/public/img/aztecunitshuman.png" class="floatleft" target="_blank" link="/public/img/aztecunitshuman.png" caption="Diagram from The Archaeology of Measurement: Comprehending Heaven, Earth and Time in Ancient Societies, edited by Iain Morley and Colin Renfrew, 2010" >}}</a>What is most exciting to me about these Indigenous conversions is their human scale, emerging from dense, pre-car (and pre-horse) urban societies that lasted far longer than anything we've created.
 
 Maybe our bike lanes should be three hearts wide and sidewalks six hearts wide.
 
