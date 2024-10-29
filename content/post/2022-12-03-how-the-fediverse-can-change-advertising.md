@@ -3,8 +3,9 @@ date: "2022-12-03T00:00:00Z"
 image: /public/img/eyeballs.jpg
 post: Mastodon Breaks Social Network Advertising (and That's Good)
 title: Mastodon Breaks Social Network Advertising (and That's Good)
+tags: ['social media', 'corporations','advertising']
 ---
-![A walled garden in ruins](/public/img/walledgardenruins.jpg)
+{{< figure src="/public/img/walledgardenruins.jpg" height=60% width=auto caption="A Generated Image of A Walled Garden in Ruins">}}
 
 I've been online long enough to remember how the internet was before [the Eternal September](https://en.wikipedia.org/wiki/Eternal_September). I also remember being surprised when I first saw an ad online—a banner ad on Yahoo, around 1995 or 1996. Since that time, advertisement dollars became the engine of corporate social networks.
 
@@ -18,7 +19,7 @@ There are now more than 8 million people on the fediverse, millions more than th
 
 But the fediverse, being a collective of instances that agree to communicate or "federate" with each other, shifts the power dynamics. No central broker exists to take bids or convert clicks. And since each fediverse instance is made up of people that can leave that individual instance at any time but remain in the fediverse, there is no walled garden with captive eyeballs. Coke's or Amazon's instance could be (and will be) "fediblocked" by many instances, effectively excluded from significant chunks of the social network.
 
-![Painting of eyeballs in the grass in a walled garden](/public/img/eyeballs.jpg)
+{{< figure src="/public/img/eyeballs.jpg" height=300px caption="A Generated Image of Eyeballs on the Grass in a Walled Garden">}}
 
 ### Pay to Federate
 

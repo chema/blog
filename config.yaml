@@ -2,6 +2,9 @@ baseURL: "http://blog.sanfranciscan.org"
 disablePathToLower: true
 languageCode: "en-us"
 
+builddrafts: false
+enableRobotsTXT: true
+
 permalinks:
   post: ":year/:month/:day/:slug"
   fixed:  ":slug/"

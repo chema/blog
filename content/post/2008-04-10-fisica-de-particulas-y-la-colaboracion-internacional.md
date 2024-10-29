@@ -2,6 +2,7 @@
 date: "2008-04-10T00:00:00Z"
 slug: fisica-de-particulas-y-la-colaboracion-internacional
 title: Física de partículas y la colaboración internacional
+tags: ['published article', 'physics', 'CERN', 'Mexico','Spanish']
 ---
 *Publicado en La Jornada en Ciencias en mayo de 2008.*
 

@@ -3,7 +3,7 @@
     "layoutdir": "layouts",
     "publishdir": "public",
 
-    "builddrafts": false,
+    "buildDraft": false,
 
     "baseurl": "https://tummychow.github.io/lanyon-hugo/",
     "canonifyurls": true,

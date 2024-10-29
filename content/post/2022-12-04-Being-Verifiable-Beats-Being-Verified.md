@@ -6,7 +6,8 @@ images:
 title: Being Verifiable Beats Being Verified
 post: Being Verifiable Beats Being Verified
 ---
-![Green Check Mark on a White Table](/public/img/greencheckmarktable.jpg)
+
+{{< figure src="/public/img/greencheckmarktable.jpg" caption="Green Check Mark on a White Table" height=60% width=auto >}}
 
 It goes without saying that knowing that the person you're talking to is *actually* the person you *think* you're talking to is important. That is why Twitter created the infamous verified blue check mark: People wanted an assurance that the Twitter account of a particular government agency or their favorite celebrity was legit and not some dude in a basement impersonating them.
 
@@ -24,8 +25,9 @@ A convention around verifiability has already appeared: the green check mark. Ke
 
 I hope we can move on from relying on third parties to verify our identities. We've got the tools to do it, so let's use them.
 
-![My Keyoxide Profile](/public/img/mykeyoxide.png)
-*What my [Keyoxide profile](https://keyoxide.org/chema@sanfranciscan.org) looks like right now and my current OpenGPG key notations:*
+{{< figure src="/public/img/mykeyoxide.png" caption="My Keyoxide Profile" height=600px link="https://keyoxide.org/chema@sanfranciscan.org" >}}
+
+What my [Keyoxide profile](https://keyoxide.org/chema@sanfranciscan.org) looks like right now and my current OpenGPG key notations:
 
     proof@ariadne.id=https://twitter.com/elsanfranciscan/status/1594168491531063296
     proof@ariadne.id=dns:sanfranciscan.org?type=TXT
