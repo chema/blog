@@ -25,7 +25,7 @@ Dedos or fingers in Spanish are not a common unit of measurement in the Spanish-
 
 I think that dividing the Mexican vara into 48 fingers was the result of a practical metrology arising from imperialism and conquest. By facilitating conversions between Indigenous Mesoamerican lengths, it turned the Mexican vara into a syncretic unit that bridged Pre-Columbian and Colonial eras, all the way to the present.
 
-{{< figure src="/public/img/varadedo.jpg" caption="The vara bar with the dedo markings" height=60% width=auto >}}
+{{< figure src="/public/img/varadedo.jpg" caption="The vara bar with the dedo markings" height="60%" width="auto" >}}
 
 Back to modern San Francisco, streets that today are 82.5 feet wide are actually 30 Mexican varas. 30 Mexican varas is 1,440 fingers, which becomes 30 Mexica *yollotli* or 10 *tlalquahuitl* wide. Streets 68.75 feet wide become 25 *yollotli* or 10 *niquizantli* wide. We begin to see distances and ratios in San Francisco found in great Pre-Columbian cities like Mēxihco-Tenōchtitlan.
 

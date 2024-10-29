@@ -7,7 +7,7 @@ slug: Reinventing-Content-Moderation
 tags: ['social media', 'content moderation','corporations','workers']
 ---
 
-{{< figure src="/public/img/KenyanContentModerator.jpg" height=60% width=auto caption="A Generated Image of a Kenyan Content Moderator">}}
+{{< figure src="/public/img/KenyanContentModerator.jpg" height="60%" width="auto" caption="A Generated Image of a Kenyan Content Moderator">}}
 
 Anyone who was around the early days of social media remembers the horrible content that circulated. Our feeds are better now, in no small part due to [the millions of dollars spent]([https://www.cnbc.com/2021/02/27/content-moderation-on-social-media.html]) by large corporate social media networks like Facebook and Twitter on content moderation.
 

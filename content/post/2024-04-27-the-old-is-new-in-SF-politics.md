@@ -6,7 +6,7 @@ images:
 title: The Old is New in SF Politics
 slug: the-old-is-new-in-SF-politics
 ---
-{{< figure src="/public/img/emperornortonbike.jpg" caption="Emperor Norton in carriage of State 1869." height=400px link="https://sutrolibrary.omeka.net/items/show/1482" attrlink="https://sutrolibrary.omeka.net/items/show/1482">}}
+{{< figure src="/public/img/emperornortonbike.jpg" caption="Emperor Norton in carriage of State 1869." height="60%" width="auto" link="https://sutrolibrary.omeka.net/items/show/1482" attrlink="https://sutrolibrary.omeka.net/items/show/1482">}}
 
 So [some dude is having feverish dreams](https://newrepublic.com/article/180487/balaji-srinivasan-network-state-plutocrat) of turning San Francisco into some sort of nightmarish, tech-controlled dystopia.
 
