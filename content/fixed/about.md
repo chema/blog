@@ -7,11 +7,9 @@
 
 Welcome to my little vanity project! My name is Chema Hernández Gil. I was surprised to find this domain name available back in 2011 and since I live in a San Francisco and my family is from another San Francisco, it felt meant to be.
 
-I'm North American through and through. I was raised in the Mexican Bajío, on the Canadian shore of Lake Ontario and in Middle Tennessee—in the Central Mexican Matorral, Southern Great Lakes Forests & Interior Plateau US Hardwood Forests ecoregions respectively, all in the [Northern American biogeographical realm](https://www.oneearth.org/realms/northern-america/). 
+{{< figure src="/public/img/covatar.jpg" caption="A drawing of me that I paid an actual human artist to make." class="floatright" max-width="50%;" target="_blank" link="/public/img/covatar.jpg"  >}}I'm North American through and through. I was raised in the Mexican Bajío, on the Canadian shore of Lake Ontario and in Middle Tennessee—in the Central Mexican Matorral, Southern Great Lakes Forests & Interior Plateau US Hardwood Forests ecoregions respectively, all in the [Northern American biogeographical realm](https://www.oneearth.org/realms/northern-america/). 
 
-I later spent my twenties on the shores of the Léman, including too many years studying at the Swiss Federal Institute of Technology. I spend my these days working as a labor organizer, walking [Luna](https://social.sanfranciscan.org/@luna), camping when I can and on geeky projects when I can't.
-
-{{< figure src="/public/img/covatar.jpg" caption="An actual drawing of me that I paid for." >}}
+I later spent my twenties on the shores of the Léman, including too many years studying at the Swiss Federal Institute of Technology, programming environmental management software and doing media activism/indepedent journalism. I spend my these days working as a labor organizer, walking [Luna](https://social.sanfranciscan.org/@luna), camping when I can and on geeky projects when I can't.
 
 I had the good fortune of being raised vegetarian and decided to become vegan in 2003. I am a co-founder of [Seed the Commons](https://seedthecommons.org/), a grassroots organization that works to create sustainable and just food systems that are independent of animal exploitation. You can [donate to support our important work here](https://donate.stripe.com/dR6bJD4ru3Frayc3cd).
 

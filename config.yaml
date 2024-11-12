@@ -12,12 +12,14 @@ permalinks:
 theme: "lanyon-hugo"
 
 Params:
-  title:            "A San Franciscan"
+  Author:           "Chema Hernández Gil"
+  title:            "A San Franciscan's Blog"
   tagline:          "Un poquito de todo"
   description:      "A collection of writings by a San Franciscan named Chema. Un poquito de todo."
   url:              "http://blog.sanfranciscan.org"
   baseurl:          ''
   DateForm:         "2006-01-02"
+  StartYear:        "2000"
 
 author:
   name:           'Chema Hernández Gil'
