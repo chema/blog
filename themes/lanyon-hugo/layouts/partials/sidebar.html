@@ -31,13 +31,13 @@
 
     {{- with .Site.Params.Github }}
     <a class="sidebar-nav-item" href="{{ .url }}/archive/{{ .head }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ .url }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently on {{ .head }}</span>
+    <a class="sidebar-nav-item" href="{{ .url }}">Git Repo</a>
+    <!-- <span class="sidebar-nav-item">Currently on {{ .head }}</span> -->
     {{ end -}}
   </nav>
 
   <div class="sidebar-item">
     {{ $currentYear := now.Format "2006" }}
-    <p>&copy; 2000 - {{ $currentYear }}. All rights reserved.</p>
+    <p>&copy; {{ .Site.Params.StartYear }} - {{ $currentYear }}. All rights reserved.</p>
   </div>
 </div>

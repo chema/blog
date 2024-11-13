@@ -13,11 +13,6 @@
         </div>
     {{ end}}
 	
-  {{- if .Site.DisqusShortname -}}
-  <hr>
-  <h2>Comments</h2>
-  {{ template "_internal/disqus.html" . }}
-  {{ end -}}
 </div>
 
 {{ partial "default_foot.html" . }}

@@ -148,19 +148,19 @@ abbr[title] {
 }
 
 figcaption { /* ADDED BY CHEMA */
-    font-size: 75%; /* Two points smaller (approximately, depending on base font size) */
+    font-size: 75%; /* 75% the normal size */
     font-style: italic; /* Italic text */
     color: #555; /* Optional: Slightly lighter color for better readability */
 }
 
 figure.floatright { /* ADDED BY CHEMA */
-	max-width: 25%;
+	max-width: 30%;
 	height: auto;
 	float: right;
 }
 
 figure.floatleft { /* ADDED BY CHEMA */
-	max-width: 25%;
+	max-width: 30%;
 	height: auto;
 	float: left;
 }
