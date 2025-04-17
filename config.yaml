@@ -25,7 +25,8 @@ author:
   name:           'Chema Hernández Gil'
   url:            https://social.sanfranciscan.org/@chema
 
-paginate:         3
+pagination:
+  pagerSize: 3
 
 markup:
   goldmark:
