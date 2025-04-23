@@ -1,0 +1,36 @@
+.site-title {
+  font-size: 1.5rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 20ch;
+}
+
+@media (max-width: 600px) {
+  .site-title {
+    font-size: 1.05rem;
+    max-width: 18ch;
+  }
+
+  .masthead-title small {
+    display: none;
+  }
+}
+
+.tags {
+  margin-top: 1em;
+  padding: 0;
+}
+
+.tags .tag {
+  display: inline-block;
+  margin-right: 0.6em;
+  color: #555;
+  text-decoration: underline;
+  font-size: 0.9rem;
+}
+
+.tags .tag:hover {
+  color: #000;
+  text-decoration: none;
+}
