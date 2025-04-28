@@ -13,6 +13,11 @@
   <link href="https://ctrvx.net/@chema" rel="me">
   <link href="https://social.sanfranciscan.org/@chema" rel="me">
 
+  <!-- Google Site Verification -->
+  {{ with .Site.Params.google_site_verification }}
+  <meta name="google-site-verification" content="{{ . }}" />
+  {{ end }}
+
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
   <link rel="canonical" href="{{ .Permalink }}">

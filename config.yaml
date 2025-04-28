@@ -22,6 +22,7 @@ Params:
   relme:            "https://sanfranciscan.org/@chema"
   DateForm:         "2006-01-02"
   StartYear:        "2000"
+  google_site_verification: "Nibvm0oWeGTTEyp92lPF8SnPhHB2d8p8mJz2xc05ISA"
 
 author:
   name:           "Chema Hernández Gil"
