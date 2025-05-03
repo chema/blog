@@ -36,7 +36,3 @@ Eliminating birthright citizenship would permanently reshape the electorate and 
 Birthright citizenship is a pillar of modern U.S. democracy, and that's precisely why it's under attack. If illiberal authoritarians succeed in restricting birthright citizenship, they will have successfully redefined who counts as American in a way that fundamentally restructures political power.
 
 That's why birthright citizenship in the U.S. must be protected.
-
-***
-
-*Do you like this article? [Buy me a coffee](https://ko-fi.com/chemahg).*

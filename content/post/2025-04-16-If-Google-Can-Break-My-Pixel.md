@@ -38,7 +38,3 @@ I’ve owned a couple of Pixel devices. Setting aside the "[*battery overheating
 </figure>
 
 The experience amplified my cynicism about this company. I had already decided to [DeGoogle](https://en.wikipedia.org/wiki/DeGoogle) my life years ago. Gmail had become creepy, Google Search annoying, and the constant tracking intolerable. I had moved away from their services, but this has shown that I can't give them any quarter in this process. I wish I could use my trusty little Nokia 225 4G for everything. But alas, dumbphones have their limits. And for anyone still depending on Google for their digital life, this should be a wake-up call. Most people won’t flash their phones, and Google knows it. That’s how they get away with it.
-
-***
-
-*Do you like this post? [Buy me a coffee](https://ko-fi.com/chemahg).*

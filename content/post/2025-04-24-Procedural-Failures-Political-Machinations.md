@@ -25,7 +25,3 @@ Ultimately, the resolution passed, slightly amended. But the process was unneces
 And let me be clear: Airbnb, Uber, DoorDash, and other corporations **should pay their taxes**. That this idea is in any way controversial in a body that claims to represent working families is straight up embarrassing.
 
 [You can watch the meeting yourself here.](https://www.youtube.com/watch?v=kdOOg2P-k1g)
-
-***
-
-*Do you like this post? [Buy me a coffee](https://ko-fi.com/chemahg).*

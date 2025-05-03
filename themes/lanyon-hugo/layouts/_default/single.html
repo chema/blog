@@ -4,8 +4,10 @@
   <h1 class="post-title">{{ .Title }}</h1>
   <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
   {{ .Content }}
+  
+  {{ partial "donate.html" . }}
+
 	{{ with .Params.tags }}
-		<hr>
         <div class="tags">
             {{ range . }}
                 <a class="tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>

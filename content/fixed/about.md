@@ -12,15 +12,19 @@ menu:
     weight: 1
 ---
 
-Welcome to my little vanity project. I'm Chema Hernández Gil—foiled engineer, onetime media activist and journalist, and nowadays, a full-time union organizer stumping for the working class in San Francisco. I started this project in 2011, when I was surprised to find the domain above available. It felt meant to be.
+Welcome to my little vanity project. I'm Chema Hernández Gil—foiled engineer, onetime media activist and journalist, and nowadays, a full-time union organizer stumping for the working class in San Francisco. 
+
+### Why a San Franciscan?
+
+I started this project in 2011, when I was surprised to find the domain above available. It felt meant to be. Even though I have only lived in San Francisco, California since 2010, my first memories were in *a* San Francisco—my family’s San Pancho in Guanajuato, where our roots stretch back to the 17th century, before Mexico was Mexico and when San Pancho was just one of many Indian Republics.
 
 <figure style="float: right; margin-left: 1.1rem; margin-bottom: 0.9rem; max-width: 40%;"><img src="/public/img/covatar.jpg" alt="A drawing of me, by a (paid) human artist." style="width: 100%; height: auto; display: block;"><figcaption style="text-align: center; font-size: 0.9rem;">A drawing of me, by a (paid) human artist.</figcaption></figure>
 
 ### From the Bajío to the Bay
 
-I'm North American through and through, raised in the Mexican Bajío, on the Canadian shore of Lake Ontario and in Middle Tennessee, all within the [Northern American biogeographical realm](https://www.oneearth.org/realms/northern-america/). 
+I'm North American through and through, raised in the Mexican Bajío, on the Canadian shore of Lake Ontario and in Middle Tennessee, all located neatly in the [Northern American biogeographical realm](https://www.oneearth.org/realms/northern-america/). 
 
-I later spent my twenties around the Léman, including too many years studying at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/en/), programming environmental management software and doing media activism as an independent journalist with Indymedia. These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't.
+I spent my early adulthood around the Léman, including too many years studying at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/en/), programming environmental management software and doing media activism as an independent journalist with Indymedia. These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't.
 
 ### Organizing and Service
 

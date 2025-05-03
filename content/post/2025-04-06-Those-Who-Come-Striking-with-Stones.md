@@ -32,7 +32,3 @@ Sometimes, the fight happens within. Struggling to be better, to stay discipline
 In this political moment, especially here in San Francisco, it’s easy to get swept up in the machinery of activism: campaigns, actions, slogans. But Zapata’s Nahuatl circular reminds me that we don’t fight to gain power. We strike against those who break with dignity, to live differently. We don’t wait to win before we act with dignity. We begin with it.
 
 That’s what prefigurative politics means to me. Not as a slogan, but as a practice, something as steady and essential as breathing. Living now as if the world we need is already here, because in some ways, it is: with our family, our friends, our committees, our colleagues, even online. In how we organize, how we care for each other, how we hold the line — not for recognition, but for meaningful survival.
-
-***
-
-*Do you like this article? [Buy me a coffee](https://ko-fi.com/chemahg).*
