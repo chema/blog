@@ -1,0 +1,19 @@
+{{ partial "default_head.html" . }}
+
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+
+  {{ range .Pages.GroupByDate "2006" }}
+    <section class="year-group">
+      <h2>Posts from {{ .Key }}</h2>
+      <ul class="post-list">
+        {{ range .Pages }}
+          <li>{{ .Date.Format "01-02" }} – <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+
+</div>
+
+{{ partial "default_foot.html" . }}

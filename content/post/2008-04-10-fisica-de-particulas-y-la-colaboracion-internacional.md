@@ -4,7 +4,7 @@ slug: fisica-de-particulas-y-la-colaboracion-internacional
 title: Física de partículas y la colaboración internacional
 tags: ['published article', 'physics', 'CERN', 'Mexico','Spanish']
 ---
-*Publicado en La Jornada en Ciencias en mayo de 2008.*
+*Publicado originalmente en [La Jornada en Ciencias](https://web.archive.org/web/20090402035933/http://ciencias.jornada.com.mx/ciencias/investigacion/ciencias-fisico-matematicas/investigacion/fisica-de-particulas-y-la-colaboracion-internacional/), suplemento mensual de La Jornada, en mayo de 2008.*
 
 Entre la cordillera del Jura y la ciudad de Ginebra, extendiéndose por ambos lados de la frontera suiza-francesa, se encuentra la Organización Europea para la Investigación Nuclear, uno de los centros de investigación científica más importantes del mundo. Por más de cincuenta años, el CERN[^1], como se le conoce, ha mantenido la vanguardia de la investigación de la física de partículas, estudiando la estructura e historia del universo a través de sus constituyentes más fundamentales. Sus aportaciones científicas ya han revolucionado el conocimiento colectivo de la humanidad, y a pesar de su propósito altamente especializado, su impacto sobre la vida cotidiana de millones de personas ya es considerable. Fue ahí donde, en 1990, Tim Berners-Lee y Robert Cailliau inventaron la WWW o web, confirmando su puesto como un centro de desarrollo tecnológico.
 <!--more-->

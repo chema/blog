@@ -24,7 +24,9 @@ I started this project in 2011, when I was surprised to find the domain above av
 
 I'm North American through and through, raised in the Mexican Bajío, on the Canadian shore of Lake Ontario and in Middle Tennessee, all located neatly in the [Northern American biogeographical realm](https://www.oneearth.org/realms/northern-america/). 
 
-I spent my early adulthood around the Léman, including too many years studying at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/en/), programming environmental management software and doing media activism as an independent journalist with Indymedia. These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't.
+I spent my early adulthood around the Léman, including too many years studying at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/en/), programming environmental management software and doing media activism as an independent journalist with Indymedia.
+
+These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't. My tech teeth were cut on Pascal, K&R C, and VAX/VMS—pre-Eternal September. These days, I still code what I need like I make pancakes: from scratch, with a predilection for a nimble ANSI C stack using OSS libraries.
 
 ### Organizing and Service
 

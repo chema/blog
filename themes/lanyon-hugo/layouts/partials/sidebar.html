@@ -36,8 +36,8 @@
     {{ end -}}
   </nav>
 
-  <div class="sidebar-item">
+  <div class="sidebar-item copyright-notice">
     {{ $currentYear := now.Format "2006" }}
-    <p>&copy; {{ .Site.Params.StartYear }} - {{ $currentYear }} {{ .Site.Params.Author }}. All rights reserved. </p>
+    <p>&copy; {{ .Site.Params.StartYear }}–{{ $currentYear }} {{ .Site.Params.Author }}</p>
   </div>
 </div>

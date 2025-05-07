@@ -1,4 +1,12 @@
-baseURL: "https://blog.sanfranciscan.org/"
+baseURL: "https://sanfranciscan.org/"
+canonifyURLs: true
+title: "Chema Hernández Gil, A San Franciscan"
+copyright: "© Chema Hernández Gil. All rights reserved."
+
+outputs:
+  home:
+    - HTML
+    - RSS
 
 disablePathToLower: true
 languageCode: "en-us"
@@ -17,7 +25,7 @@ Params:
   title:            "Chema Hernández Gil, A San Franciscan"
   tagline:          "Un poquito de todo"
   description:      "Writings and meditations by Chema Hernández Gil – organizer, foiled engineer, and media activist based in San Francisco."
-  url:              "https://blog.sanfranciscan.org"
+  url:              "https://sanfranciscan.org"
   baseurl:          '/'
   relme:            "https://sanfranciscan.org/@chema"
   DateForm:         "2006-01-02"
