@@ -8,7 +8,7 @@ images:
   - /public/img/TeotihuacanCropped.jpg
 ---
 
-In [Una lucha más / Another Struggle](https://blog.sanfranciscan.org/2025/02/20/una-lucha-mas/), I wrote about the weight of carrying history: how every day is part of a struggle that started long before us. This reflection picks up from there but now focuses on how we live while we fight.
+In [Una lucha más / Another Struggle](https://sanfranciscan.org/2025/02/20/una-lucha-mas/), I wrote about the weight of carrying history: how every day is part of a struggle that started long before us. This reflection picks up from there but now focuses on how we live while we fight.
 
 Over a century ago, two of Zapata’s manifestos were translated into Nahuatl, a Native Mexican language, and circulated among Indigenous villagers in Tlaxcala. The texts are powerful and [worth reading](/public/pdf/Manifiestos_náhuatl_Zapata_1996.pdf) because of how they interpret the cultural, ethical, and political message for people with a very different lived reality. The translator didn’t use the word “revolution.” Instead, he envisioned it as *netehuiliztle* — the will to struggle — and revolutionaries as *netehuiloani*, those who come striking with stones. It was a declaration not of ideology, but of moral clarity and collective will.<!--more-->
 
@@ -21,7 +21,7 @@ Over a century ago, two of Zapata’s manifestos were translated into Nahuatl, a
 
 Zapata’s message didn’t frame the enemy as political opposition. The Carrancistas were *amo coali*: not good. And the goal wasn’t some abstract future; it was *cuali inemiliz*: a good, just way of living.
 
-That kind of framing is power. It reminds me of something I wrote years ago in [Soy Xicoténcatl](https://blog.sanfranciscan.org/2018/01/21/soy-xicotencatl/), about carrying memory and contradiction in my family's own Native town. These aren’t just metaphors. They’re ways of understanding struggle, not as something we do for later, but something we live now, with clarity of reason. The land, the people, the language — none of it is academic. Struggle must be lived and spoken in ways people already understand and feel.
+That kind of framing is power. It reminds me of something I wrote years ago in [Soy Xicoténcatl](https://sanfranciscan.org/2018/01/21/soy-xicotencatl/), about carrying memory and contradiction in my family's own Native town. These aren’t just metaphors. They’re ways of understanding struggle, not as something we do for later, but something we live now, with clarity of reason. The land, the people, the language — none of it is academic. Struggle must be lived and spoken in ways people already understand and feel.
 
 And part of that struggle, part of what defines it, is how we make decisions and reason together to act. We need to find opportunities in our daily lives to practice collective decision-making and action, even in small, imperfect ways. That’s exactly what the not-good men don’t do. Authoritarians hoard power, issue orders, and act alone. Our power, if it means anything of consequence, must be practiced together.
 

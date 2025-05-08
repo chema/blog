@@ -5,8 +5,8 @@
 # Ignore Hugo cache
 /resources/_gen/
 
-# Ignore draft content folder
-/content/draft/
+# Ignore draft folder
+/drafts/
 
 # Ignore temporary files
 *.bak
