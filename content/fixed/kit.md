@@ -3,18 +3,10 @@ slug: "kit"
 title: "Kit & Gear"
 description: "A curated list of high-quality, vegan, and durable tools, kit and gear I personally use and recommend."
 toc: false
-tags:
-  - gear
-  - kit
-  - vegan
-  - EDC
-  - biking
-  - tools
 menu:
   main:
     name: "Kit"
     weight: 2
-
 ---
 
 ## Tools for a Lifetime

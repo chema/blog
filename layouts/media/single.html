@@ -1,0 +1,18 @@
+{{ partial "default_head.html" . }}
+
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  <span class="post-date">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</span>
+  {{ .Content }}
+ 
+	{{ with .Params.tags }}
+        <div class="tags">
+            {{ range . }}
+                <a class="tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+            {{ end }}
+        </div>
+    {{ end}}
+	
+</div>
+
+{{ partial "default_foot.html" . }}

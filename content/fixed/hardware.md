@@ -1,5 +1,5 @@
 {
-	"slug": "Hardware",
+	"slug": "hardware",
     "title": "Hardware",
     "sidebar": true,
     "weight": "1",

@@ -1,0 +1,30 @@
+{{ partial "default_head.html" . }}
+
+<div class="post">
+  <h1 class="post-title">Media Gallery</h1>
+
+  {{ range .Pages.GroupByDate "2006" }}
+    <section class="year-group">
+      <h2>Media from {{ .Key }}</h2>
+      <div class="media-grid">
+        {{ range .Pages }}
+          {{ $page := . }}
+          {{ with .Resources.GetMatch .Params.image }}
+            {{ $img := . }}
+            {{ $thumb := $img.Resize "400x" }}
+            <a href="{{ $page.Permalink }}" title="{{ $page.Title }}">
+              <img src="{{ $thumb.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
+            </a>
+          {{ else }}
+            <!-- fallback if image isn't found -->
+            <a href="{{ .Permalink }}" title="{{ .Title }}">
+              <div class="media-thumb-fallback">{{ .Title }}</div>
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+</div>
+
+{{ partial "default_foot.html" . }}

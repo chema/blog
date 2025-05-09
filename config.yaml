@@ -31,7 +31,10 @@ Params:
   DateForm:         "2006-01-02"
   StartYear:        "2000"
   google_site_verification: "Nibvm0oWeGTTEyp92lPF8SnPhHB2d8p8mJz2xc05ISA"
-
+  mainSections:
+    - post
+    - media
+    
 author:
   name:           "Chema Hernández Gil"
   url:            "https://social.sanfranciscan.org/@chema"
@@ -52,3 +55,6 @@ frontmatter:
   date:
   - :filename
   - :default
+
+taxonomies:
+  tag: tags

@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /analytics-gg4psz/
+Disallow: /fixed/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
