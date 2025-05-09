@@ -20,8 +20,7 @@ The site is built with [Hugo](https://gohugo.io/) and deployed to a home server 
 
 ## License
 
-All original content in this repository, including text, images, and configuration files authored by Chema Hernández Gil, is  
-© 2020–2025 Chema Hernández Gil, **All Rights Reserved**.
+All original content in this repository, including text, images, and configuration files authored by Chema Hernández Gil, is © 2020–2025 Chema Hernández Gil, **All Rights Reserved**.
 
 You may not copy, modify, or redistribute any original material without explicit written permission from the author.
 
