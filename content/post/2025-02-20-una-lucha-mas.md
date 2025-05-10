@@ -1,12 +1,13 @@
----
-date: "2025-02-20T00:00:00Z"
-title: "Una lucha más / Another Struggle"
-description: "Some inspiration for the current political moment."
-tags: ['USA', 'Mexico', 'politics', 'history']
-image: /public/img/EnFavorDeLaPaz.jpg
-images:
-  - /public/img/EnFavorDeLaPaz.jpg
----
++++
+date = "2025-02-20T00:00:00-08:00"
+timezone = "America/Los_Angeles"
+slug = "una-lucha-mas"
+title = "Una lucha más / Another Struggle"
+description = "Some inspiration for the current political moment."
+tags = ["USA", "Mexico", "politics", "history"]
+image = "/public/img/EnFavorDeLaPaz.jpg"
+images = ["/public/img/EnFavorDeLaPaz.jpg"]
++++
 
 In this political moment, I've been finding great comfort in the fact that Mexican civil society found ways to survive and even thrive while existing under an authoritarian one-party regime for the better part of a century.<!--more-->
 

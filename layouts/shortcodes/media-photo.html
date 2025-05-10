@@ -1,0 +1,8 @@
+{{ with .Page.Resources.GetMatch (.Page.Params.image) }}
+<figure>
+<img src="{{ .RelPermalink }}" alt="{{ $.Page.Params.alt }}">
+<figcaption>{{ $.Page.Params.caption | markdownify }}</figcaption>
+</figure>
+{{ else }}
+<p class="media-missing">Image not found: {{ .Page.Params.image }}</p>
+{{ end }}

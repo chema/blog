@@ -1,12 +1,13 @@
----
-date: "2025-02-26T00:00:00Z"
-title: "Europe is a Cautionary Tale on Birthright Citizenship"
-description: "A Future Without Birthright Citizenship? Europe’s Restrictive Laws Show Us the Consequences."
-tags: ['USA', 'Europe', 'democracy', 'citizenship']
-image: /public/img/RacistPoster.jpg
-images:
-  - /public/img/RacistPoster.jpg
----
++++
+date = "2025-02-26T08:00:00-08:00"
+timezone = "America/Los_Angeles"
+slug = "a-cautionary-tale"
+title = "Europe is a Cautionary Tale on Birthright Citizenship"
+description = "A Future Without Birthright Citizenship? Europe’s Restrictive Laws Show Us the Consequences."
+tags = ["USA", "Europe", "democracy", "citizenship"]
+image = "/public/img/RacistPoster.jpg"
+images = ["/public/img/RacistPoster.jpg"]
++++
 
 Birthright citizenship is under threat in the United States, and Europe's restrictive laws offer a clear warning of what's at stake.
 
