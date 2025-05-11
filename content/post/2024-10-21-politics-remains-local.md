@@ -1,6 +1,7 @@
 ---
 title: "Politics Remains Local"
 tags: ['politics', 'elections']
+schemaType: "BlogPosting"
 ---
 It is just a couple of weeks until Election Day. I remain (professionally) focused on the San Francisco ballot—no choice in the matter, it's my bread and butter[^1]. That said, I did take a moment this evening to glance at the forecasts for the presidential election.<!--more-->
 

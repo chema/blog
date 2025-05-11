@@ -13,6 +13,7 @@ tags = ["Usenet", "Nashville", "Lausanne", "newsgroup", "game", "nostalgia"]
 
 image = "img/usenet-any-tcp-game.png"
 images = ["img/usenet-any-tcp-game.png"]
+schemaType = "BlogPosting"
 +++
 I mentioned earlier this week that growing up, I was [lucky to have access](https://sanfranciscan.org/2025/05/04/before-our-attention-was-a-commodity/) to the Internet before the web. This meant I was able to take full advantage when I figured out how to use my dad's dial-up account at Vanderbilt University during Christmas break in early January 1995.
 

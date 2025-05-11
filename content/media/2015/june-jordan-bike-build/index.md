@@ -10,7 +10,7 @@ slug = "june-jordan-bike-build"
 title = "June Jordan Bike Build"
 description = "A successful PODER SF Bicis del Pueblo day at June Jordan High with SF Bike, McLaren Bike Park and SF Yellow Bike volunteers!"
 
-tags = ["photo", "Twitter", "Bicis del Pueblo", "bike sf"]
+tags = ["photo", "Twitter", "Bicis del Pueblo", "Bike SF"]
 
 image = "june-jordan-bike-build.jpg"
 images = ["june-jordan-bike-build.jpg"]

@@ -5,6 +5,7 @@ images:
 title: "ctrvx.net: A Central Virtual Extension into the Network"
 slug: a-central-virtual-extension-into-the-network
 tags: ['fediverse', 'snac', 'ctrvx.net']
+schemaType: "BlogPosting"
 ---
 {{< figure src="/public/img/ctrvxnet.jpg" caption="An edited generated pixel image of an old-school computer with the words CTRVX of the green screen" >}}
 

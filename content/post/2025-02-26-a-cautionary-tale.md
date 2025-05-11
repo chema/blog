@@ -7,6 +7,7 @@ description = "A Future Without Birthright Citizenship? Europe’s Restrictive L
 tags = ["USA", "Europe", "democracy", "citizenship"]
 image = "/public/img/RacistPoster.jpg"
 images = ["/public/img/RacistPoster.jpg"]
+schemaType = "OpinionNewsArticle"
 +++
 
 Birthright citizenship is under threat in the United States, and Europe's restrictive laws offer a clear warning of what's at stake.

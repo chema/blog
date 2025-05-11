@@ -7,6 +7,7 @@ tags: ['San Francisco', 'Democratic Party', 'City budget', 'sfpol']
 image: /public/img/robertsrules.jpg
 images:
   - /public/img/robertsrules.jpg
+schemaType: AnalysisNewsArticle
 ---
 Last night's meeting of the San Francisco Democratic County Central Committee (DCCC) was a procedural train wreck—a proverbial circus that would be amusing if it didn't undermine trust in how San Francisco's Democratic Party operates.
 

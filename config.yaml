@@ -34,6 +34,18 @@ Params:
   mainSections:
     - post
     - media
+  authorDescription: "Chema Hernández Gil is a San Francisco–based labor organizer with an engineering background and roots in Mexico, Tennessee, and Switzerland, focused on labor, community, and media activism."
+  sameAs:
+    - "https://keyoxide.org/chema@sanfranciscan.org"
+    - "https://social.sanfranciscan.org/@chema"
+    - "https://ctrvx.net/chema"
+    - "https://github.com/chema"
+    - "https://www.linkedin.com/in/chemahdezgil"
+    - "https://www.instagram.com/elsanfranciscano"
+    - "https://x.com/elsanfranciscan"
+    - "https://bsky.app/profile/chema.ctrvx.net"
+    - "https://bsky.app/profile/chema.baysky.social"
+    - "https://keybase.io/chema"
     
 author:
   name:           "Chema Hernández Gil"

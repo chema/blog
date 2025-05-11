@@ -7,11 +7,17 @@
   <!-- Open Graph and Twitter Internal Template -->
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
-  <link rel="me" href="{{ .Site.Params.relme }}">
+  
+  <!-- Schema.org JSON-LD Person metadata -->
+  {{ if eq .Permalink "https://sanfranciscan.org/about/" }}{{ partial "schema-about.html" . }}{{ end }}
+
+  <!-- Article/Post schema (only for posts in mainSections) -->
+  {{ partial "schema-page.html" . }}
 
   <!-- Fediverse Verify -->
-  <link href="https://ctrvx.net/@chema" rel="me">
-  <link href="https://social.sanfranciscan.org/@chema" rel="me">
+  <link rel="me" href="{{ .Site.Params.relme }}">
+  <link rel="me" href="https://ctrvx.net/@chema">
+  <link rel="me" href="https://social.sanfranciscan.org/@chema" >
 
   <!-- Google Site Verification -->
   {{ with .Site.Params.google_site_verification }}
@@ -22,13 +28,15 @@
 
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <title>
-    {{ if .IsHome }}
-      {{ .Site.Params.Title }} &middot; {{ .Site.Params.Tagline }}
-    {{ else }}
-      {{ .Title }} &middot; {{ .Site.Params.Title }}
-    {{ end }}
-  </title>
+	<title>
+	{{ if .IsHome }}
+	  {{ .Site.Params.Title }} &middot; {{ .Site.Params.Tagline }}
+	{{ else if le (len .Title) 20 }}
+	  {{ .Title }} &middot; {{ .Site.Params.Title }}
+	{{ else }}
+	  {{ .Title }}
+	{{ end }}
+	</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/css/poole.css">
