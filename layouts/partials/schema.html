@@ -1,0 +1,158 @@
+{{/* schema.html - Consolidated JSON-LD structured data with type gating */}}
+
+{{/* Step 1: Identify which schema applies */}}
+{{ $schemaType := "" }}
+{{ if eq .Permalink "https://sanfranciscan.org/about/" }}
+  {{ $schemaType = "about" }}
+{{ else if and .IsPage (eq .Type "post") }}
+  {{ $schemaType = "post" }}
+{{ else if and .IsPage (eq .Type "media") }}
+  {{ $schemaType = "media" }}
+{{ end }}
+
+{{/* Step 2: Proceed only if schemaType is known */}}
+{{ if ne $schemaType "" }}
+  {{ $base := .Site.Params.url | default .Site.BaseURL }}
+  {{ $author := .Site.Params.Author }}
+  {{ $publisher := .Site.Params.title }}
+  {{ $image := "" }}
+  {{ with .Params.image }}{{ $image = path.Join $base . }}{{ end }}
+  {{ $title := .Title | plainify | htmlUnescape }}
+  {{ $description := .Params.description | default .Summary | plainify | htmlUnescape }}
+  {{ $datePublished := .Date.Format "2006-01-02T15:04:05Z07:00" }}
+  {{ $dateModified := .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}
+
+  {{ if eq $schemaType "about" }}
+    {{ $social := .Site.Params.sameAs }}
+    {{ $bio := .Site.Params.authorDescription | plainify | htmlUnescape }}
+    {{ $profileImage := printf "%s/img/chema-hernandez-gil-profile-photo-home-2025-600x600.webp" $base }}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "url": "{{ .Permalink }}",
+      "mainEntity": {
+        "@type": "Person",
+        "name": {{ $author }},
+        "description": {{ $bio }},
+        "alternateName": "José María Hernández Gil",
+        "givenName": "Chema",
+        "familyName": "Hernández Gil",
+        "jobTitle": "Political Organizer",
+        "alumniOf": {
+          "@type": "EducationalOrganization",
+          "name": "École Polytechnique Fédérale de Lausanne (EPFL)"
+        },
+        "knowsLanguage": ["en", "es", "fr", "it"],
+        "url": {{ $base }},
+        "image": {{ $profileImage }},
+        "sameAs": [
+          {{ range $index, $item := $social }}{{ if $index }}, {{ end }}"{{ $item }}"{{ end }}
+        ],
+        "homeLocation": {
+          "@type": "Place",
+          "name": "San Francisco, California"
+        }
+      }
+    }
+    </script>
+  {{ end }}
+ 
+  {{ if eq $schemaType "post" }}
+    {{ $rawType := .Params.schemaType | default "" }}
+    {{ $type := "Article" }}
+    {{ if in (slice "OpinionNewsArticle" "AnalysisNewsArticle") $rawType }}
+      {{ $type = "NewsArticle" }}
+    {{ else if in (slice "BlogPosting" "CreativeWork") $rawType }}
+      {{ $type = "BlogPosting" }}
+    {{ end }}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ $type }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "headline": "{{ $title }}",
+      "description": "{{ $description }}",
+      {{ if $image }}"image": "{{ $image }}",{{ end }}
+      "datePublished": "{{ $datePublished }}",
+      "dateModified": "{{ $dateModified }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ $author }}",
+        "url": "{{ $base }}/about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ $publisher }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ $base }}/img/a-san-franciscan-sea-lion-logo-2025-192x192.png"
+        }
+      }
+    }
+    </script>
+  {{ end }}
+
+{{ if eq $schemaType "media" }}
+  {{ $credit := .Params.creditText | default .Params.creator | default $author }}
+  {{ $copyright := .Params.copyrightNotice | default $author }}
+  {{ $license := .Params.license | default .Site.Params.licenseUrl }}
+  {{ $licensePage := .Params.acquireLicensePage | default .Site.Params.acquireLicensePage }}
+
+  {{ $latitude := "" }}
+  {{ $longitude := "" }}
+  {{ with .Params.location }}
+    {{ $latitude = trim .latitude " \t\n\r" }}
+    {{ $longitude = trim .longitude " \t\n\r" }}
+  {{ end }}
+
+  {{ $images := .Params.images | default (slice .Params.image) }}
+
+  {{ range $index, $img := $images }}
+    {{ $imgURL := "" }}
+    {{ with $.Resources.GetMatch $img }}
+      {{ $imgURL = .Permalink }}
+    {{ else }}
+      {{ $imgURL = path.Join $base $img }}
+    {{ end }}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "ImageObject",
+      "contentUrl": "{{ $imgURL }}",
+      {{ with $license }}"license": "{{ . }}",{{ end }}
+      {{ with $licensePage }}"acquireLicensePage": "{{ . }}",{{ end }}
+      "description": {{ if eq $index 0 }}"{{ $description }}"{{ else }}"{{ replaceRE "\\.jpg$" "" $img | humanize | title }}"{{ end }},
+      "name": "{{ $title }}",
+      "datePublished": "{{ $datePublished }}",
+      "creator": {
+        "@type": "Person",
+        {{ if $.Params.creator }}
+        "name": "{{ $.Params.creator }}"
+        {{ else }}
+        "name": "{{ $author }}",
+        "url": "{{ $base }}/about/"
+        {{ end }}
+      },
+      "creditText": "{{ $credit }}",
+      "copyrightNotice": "{{ $copyright }}"{{ if and $latitude $longitude }},
+      "locationCreated": {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": {{ $latitude }},
+          "longitude": {{ $longitude }}
+        }
+      }{{ end }}
+    }
+    </script>
+  {{ end }}
+{{ end }}
+
+{{ end }}

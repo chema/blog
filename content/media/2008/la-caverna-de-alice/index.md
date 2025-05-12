@@ -9,6 +9,7 @@ slug = "la-caverna-de-alice"
 
 title = "La caverna de ALICE"
 description = "Su corresponsal y compañera en la caverna de ALICE, un experimento del Gran Colisionador de Hadrones del CERN."
+creator = "Arturo Fernández Téllez"
 
 tags = ["photo", "CERN", "physics", "Switzerland", "Geneva"]
 

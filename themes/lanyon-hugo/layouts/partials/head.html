@@ -8,11 +8,8 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   
-  <!-- Schema.org JSON-LD Person metadata -->
-  {{ if eq .Permalink "https://sanfranciscan.org/about/" }}{{ partial "schema-about.html" . }}{{ end }}
-
-  <!-- Article/Post schema (only for posts in mainSections) -->
-  {{ partial "schema-page.html" . }}
+  <!-- Schema.org JSON-LD structured data -->
+  {{ partial "schema.html" . }}
 
   <!-- Fediverse Verify -->
   <link rel="me" href="{{ .Site.Params.relme }}">
@@ -50,9 +47,19 @@
   <link rel="stylesheet" href="{{ . | relURL }}">
   {{- end }}
 
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-144-precomposed.png">
-  <link rel="shortcut icon" href="/assets/favicon.ico">
+	<!-- Standard favicons -->
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<!-- Apple touch icons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-icon-180x180.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/assets/apple-icon-120x120.png">
+
+	<!-- Web App Manifest -->
+	<link rel="manifest" href="/assets/manifest.json">
+	<meta name="theme-color" content="#fefdfa">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">

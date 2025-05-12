@@ -26,10 +26,14 @@ Params:
   tagline:          "Un poquito de todo"
   description:      "Writings and meditations by Chema Hernández Gil – organizer, foiled engineer, and media activist based in San Francisco."
   url:              "https://sanfranciscan.org"
+  images:
+    - "img/og-image.png"
   baseurl:          '/'
   relme:            "https://sanfranciscan.org/@chema"
   DateForm:         "2006-01-02"
   StartYear:        "1995"
+  licenseUrl:       "https://sanfranciscan.org/license/"
+  acquireLicensePage: "https://sanfranciscan.org/license"
   google_site_verification: "Nibvm0oWeGTTEyp92lPF8SnPhHB2d8p8mJz2xc05ISA"
   mainSections:
     - post

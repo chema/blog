@@ -39,6 +39,12 @@
   font-size: 0.85em;
 }
 
+.sidebar-item.logo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 .media-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));

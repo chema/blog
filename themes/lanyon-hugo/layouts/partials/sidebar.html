@@ -4,14 +4,16 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+
   <div class="sidebar-item">
     <p>
-      {{- with .Site.Params.description }}
-      {{ . | markdownify }}
-      {{- else }}
-      A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
-      {{- end }}
-    </p>
+	<img src="/img/a-san-franciscan-sea-lion-logo-2025-128x128.png" alt="A San Franciscan logo" width="96" height="96" style="display: block; margin: 0 auto 1rem;" />
+	{{- with .Site.Params.description }}
+	{{ . | markdownify }}
+	{{- else }}
+	A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.
+	{{- end }}
+	</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -37,8 +39,10 @@
     {{ end -}}
   </nav>
 
-  <div class="sidebar-item copyright-notice">
-    {{ $currentYear := now.Format "2006" }}
-    <p>&copy; {{ .Site.Params.StartYear }}–{{ $currentYear }} {{ .Site.Params.Author }}</p>
-  </div>
+	<div class="sidebar-item copyright-notice">
+		{{ $currentYear := now.Format "2006" }}
+		<p>
+		<a href="{{ "license/" | relURL }}" title="View content license">&copy; {{ .Site.Params.StartYear }}–{{ $currentYear }} {{ .Site.Params.Author }}</a>
+		</p>
+	</div>
 </div>
