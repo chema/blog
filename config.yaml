@@ -22,8 +22,8 @@ theme: "lanyon-hugo"
 
 Params:
   Author:           "Chema Hernández Gil"
-  title:            "Chema Hernández Gil, A San Franciscan"
-  tagline:          "Un poquito de todo"
+  title:            "A San Franciscan"
+  tagline:          "“Pueblo me llamo”"
   description:      "Writings and meditations by Chema Hernández Gil – organizer, foiled engineer, and media activist based in San Francisco."
   url:              "https://sanfranciscan.org"
   images:

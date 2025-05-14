@@ -14,9 +14,11 @@ menu:
 
 Welcome to my little vanity project. I'm Chema Hernández Gil—foiled engineer, onetime media activist and journalist, and nowadays, a full-time union organizer stumping for the working class in San Francisco. 
 
-### Why a San Franciscan?
+### Why A San Franciscan?
 
-I started this project in 2011, when I was surprised to find the domain above available. It felt meant to be. Even though I have only lived in San Francisco, California since 2010, my first memories were in *a* San Francisco—my family’s San Pancho in Guanajuato, where our roots stretch back to the 17th century, before Mexico was Mexico and when San Pancho was just one of many Indian Republics.
+I started this project less than six months after moving to San Francisco, California, when I discovered that the domain name was available. Even though I had just arrived, it felt meant to be — my earliest memories are from *a* San Francisco: my family's San Pancho in Guanajuato, where our roots reach back to the 17th century, before Mexico was Mexico, when San Pancho was one of many Indian republics. The syncretic demonym for a U.S. city that sprouted from a colonial settlement built on Indigenous labor and land felt like the right place to make a home.
+
+Beyond geographies, the domain has also come to reflect my ethical commitments and political orientation in the pursuit of justice — through animal liberation, degrowth, anti-authoritarianism, worker empowerment, and democracy — all values embodied by the namesake of both my cities: Saint Francis of Assisi.
 
 <figure style="float: right; margin-left: 1.1rem; margin-bottom: 0.9rem; max-width: 40%;"><img src="/public/img/covatar.jpg" alt="A drawing of me, by a (paid) human artist." style="width: 100%; height: auto; display: block;"><figcaption style="text-align: center; font-size: 0.9rem;">A drawing of me, by a (paid) human artist.</figcaption></figure>
 
@@ -26,7 +28,7 @@ I'm North American through and through, raised in the Mexican Bajío, on the Can
 
 I spent my early adulthood around the Léman, including too many years studying at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/en/), programming environmental management software and doing media activism as an independent journalist with Indymedia.
 
-These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't. My tech teeth were cut on Pascal, K&R C, and VAX/VMS—pre-Eternal September. These days, I still code what I need like I make pancakes: from scratch, with a predilection for a nimble ANSI C stack using OSS libraries.
+These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't. My tech teeth were cut on K&R C and VAX/VMS. These days, I still code what I need like I make pancakes: from scratch, with a predilection for a nimble ANSI C stack.
 
 ### Organizing and Service
 

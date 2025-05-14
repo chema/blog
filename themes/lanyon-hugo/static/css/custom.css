@@ -1,21 +1,3 @@
-.site-title {
-  font-size: 1.5rem;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 20ch;
-}
-
-@media (max-width: 600px) {
-  .site-title {
-    font-size: 1.05rem;
-    max-width: 18ch;
-  }
-
-  .masthead-title small {
-    display: none;
-  }
-}
 
 .tags {
   margin-top: 1em;
