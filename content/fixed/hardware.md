@@ -1,6 +1,7 @@
 {
 	"slug": "hardware",
     "title": "Hardware",
+	"description": "The physical hardware that hosts A San Franciscan",
     "toc": true
 }
 This Hugo site and my two fediverse instances have been running on the server pictured below since late 2022.
