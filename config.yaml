@@ -20,6 +20,37 @@ permalinks:
 
 theme: "lanyon-hugo"
 
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "About this Site"
+      url: "/about/"
+      weight: 2
+
+    - name: "Your Correspondent"
+      url: "/biography/"
+      weight: 3
+
+    - name: "Post Archive"
+      url: "/post/"
+      weight: 4
+
+    - name: "Media Gallery"
+      url: "/media/"
+      weight: 5
+
+    - name: "Kit & Gear"
+      url: "/kit/"
+      weight: 6
+
+    - name: "Hardware"
+      url: "/hardware/"
+      weight: 7
+
+
 Params:
   Author:           "Chema Hernández Gil"
   title:            "A San Franciscan"

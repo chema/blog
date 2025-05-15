@@ -1,11 +1,9 @@
 {
 	"slug": "hardware",
     "title": "Hardware",
-    "sidebar": true,
-    "weight": "1",
     "toc": true
 }
-This Hugo blog and my two fediverse instances have been running on the server pictured below since late 2022.
+This Hugo site and my two fediverse instances have been running on the server pictured below since late 2022.
 
 {{< figure src="/public/img/NUCserver.jpg" caption="A small dusty server in a wire drawer with some cables in the background. " >}}
 

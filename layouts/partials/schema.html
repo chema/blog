@@ -2,8 +2,8 @@
 
 {{/* Step 1: Identify which schema applies */}}
 {{ $schemaType := "" }}
-{{ if eq .Permalink "https://sanfranciscan.org/about/" }}
-  {{ $schemaType = "about" }}
+{{ if eq .Permalink "https://sanfranciscan.org/biography/" }}
+  {{ $schemaType = "biography" }}
 {{ else if and .IsPage (eq .Type "post") }}
   {{ $schemaType = "post" }}
 {{ else if and .IsPage (eq .Type "media") }}
@@ -22,7 +22,7 @@
   {{ $datePublished := .Date.Format "2006-01-02T15:04:05Z07:00" }}
   {{ $dateModified := .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}
 
-  {{ if eq $schemaType "about" }}
+  {{ if eq $schemaType "biography" }}
     {{ $social := .Site.Params.sameAs }}
     {{ $bio := .Site.Params.authorDescription | plainify | htmlUnescape }}
     {{ $profileImage := printf "%s/img/chema-hernandez-gil-profile-photo-home-2025-600x600.webp" $base }}
@@ -84,7 +84,7 @@
       "author": {
         "@type": "Person",
         "name": "{{ $author }}",
-        "url": "{{ $base }}/about/"
+        "url": "{{ $base }}/biography/"
       },
       "publisher": {
         "@type": "Organization",
@@ -137,7 +137,7 @@
         "name": "{{ $.Params.creator }}"
         {{ else }}
         "name": "{{ $author }}",
-        "url": "{{ $base }}/about/"
+        "url": "{{ $base }}/biography/"
         {{ end }}
       },
       "creditText": "{{ $credit }}",

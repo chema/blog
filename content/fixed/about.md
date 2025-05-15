@@ -1,43 +1,26 @@
 ---
 slug: "about"
-title: "On the Life & Labors of your Correspondent"
-description: "Chema Hernández Gil is an organizer, foiled engineer, and media activist based in San Francisco. Learn more about his background, values, and projects."
-weight: 1
-image: /public/img/covatar.jpg
+title: "About A San Franciscan"
+description: "A San Franciscan is the site of Chema Hernández Gil, a San Francisco–based activist-organizer grounded in the values of Saint Francis: justice and liberation."
+image: /img/a-san-franciscan-sea-lion-logo-2025-512x512.png
 images:
-  - /public/img/covatar.jpg
-menu:
-  main:
-    name: "About"
-    weight: 1
+  - /img/a-san-franciscan-sea-lion-logo-2025-512x512.png
 ---
 
-Welcome to my little vanity project. I'm Chema Hernández Gil—foiled engineer, onetime media activist and journalist, and nowadays, a full-time union organizer stumping for the working class in San Francisco. 
+Welcome to the digital home of Chema Hernández Gil, a foiled engineer, one-time media activist and journalist, and now a full-time union organizer stumping for the working class in San Francisco. This site brings together Writings and meditations on politics, activism, history, and memory.
 
 ### Why A San Franciscan?
 
-I started this project less than six months after moving to San Francisco, California, when I discovered that the domain name was available. Even though I had just arrived, it felt meant to be — my earliest memories are from *a* San Francisco: my family's San Pancho in Guanajuato, where our roots reach back to the 17th century, before Mexico was Mexico, when San Pancho was one of many Indian republics. The syncretic demonym for a U.S. city that sprouted from a colonial settlement built on Indigenous labor and land felt like the right place to make a home.
+<figure style="float: right; margin-right: 1.1rem; margin-bottom: 0.9rem; max-width: 30%;"><img src="/img/a-san-franciscan-sea-lion-logo-2025-512x512.png" alt="A circular emblem showing a sea lion on a rock before the Golden Gate Bridge" style="width: 100%; height: auto; display: block;" loading="lazy"><figcaption style="text-align: center; font-size: 0.8rem;">The Great San Franciscan Seal</figcaption></figure>
 
-Beyond geographies, the domain has also come to reflect my ethical commitments and political orientation in the pursuit of justice — through animal liberation, degrowth, anti-authoritarianism, worker empowerment, and democracy — all values embodied by the namesake of both my cities: Saint Francis of Assisi.
+Your correspondent's earliest memories are from another San Francisco: his family’s San Pancho in Guanajuato, where their roots reach back to 1607, when San Pancho was one of many "Indian republics." He had only just arrived in San Francisco, California when he planted the seeds of what would become this site. This domain, built on the syncretic demonym of a Californian city imposed on a colonial settlement rooted in Indigenous labor and land, became a fitting foundation for a digital home.
 
-<figure style="float: right; margin-left: 1.1rem; margin-bottom: 0.9rem; max-width: 40%;"><img src="/public/img/covatar.jpg" alt="A drawing of me, by a (paid) human artist." style="width: 100%; height: auto; display: block;"><figcaption style="text-align: center; font-size: 0.9rem;">A drawing of me, by a (paid) human artist.</figcaption></figure>
+### Beyond Geographies and Etymologies
 
-### From the Bajío to the Bay
+More recently, the domain has come to reflect the author's ethical commitments and political orientation in the pursuit of justice. These include animal liberation, degrowth, anti-authoritarianism, worker empowerment, and democracy — values he associates with the namesake of both his cities: Saint Francis of Assisi.
 
-I'm North American through and through, raised in the Mexican Bajío, on the Canadian shore of Lake Ontario and in Middle Tennessee, all located neatly in the [Northern American biogeographical realm](https://www.oneearth.org/realms/northern-america/). 
+### Scope & Purpose
 
-I spent my early adulthood around the Léman, including too many years studying at the [Swiss Federal Institute of Technology in Lausanne (EPFL)](https://www.epfl.ch/en/), programming environmental management software and doing media activism as an independent journalist with Indymedia.
+A San Franciscan is a collection of essays, analysis, published articles, personal meditations and media stretching back to the mid-1990s. If you're new here, the [Post Archive](/post/) is a good place to begin.  Alternately, you can browse the [Media Gallery](/media/).
 
-These days I work as a labor organizer, walk [Luna](https://social.sanfranciscan.org/@luna) around the Embarcadero, camp up and down California when I can, and dive into geeky projects when I can't. My tech teeth were cut on K&R C and VAX/VMS. These days, I still code what I need like I make pancakes: from scratch, with a predilection for a nimble ANSI C stack.
-
-### Organizing and Service
-
-I had the good fortune of being raised vegetarian and became vegan in 2003. I co-founded [Seed the Commons](https://seedthecommons.org/), a grassroots organization that works to create sustainable and just food systems that are independent of animal exploitation. You can [donate to support our important work here](https://buy.stripe.com/eVa3d72jmfo935K4gi).
-
-I was a member of the [San Francisco Redistricting Task Force](https://sf.gov/public-body/2020-census-redistricting-task-force), tasked with redrawing the district lines for 2022 to 2032.  It was, as one City staffer put it, *"the most intense deliberative body in California"*. My exhaustive thoughts on that process and on the final redistricting map can be found in [the official Final Report, under my Member Statement](https://sf.gov/sites/default/files/2022-05/2021-2022%20San%20Francisco%20Redistricting%20Task%20Force%20-%20Final%20Report.pdf), starting on page 41.
-
-For nearly a decade, I was also a member of the [East Cut Community Benefit District](http://theeastcut.org/about-us/) board of directors (and voted for the name "East Cut"). I'm also a former elected board director of the [San Francisco Bicycle Coalition](http://www.sfbike.org/about/board-of-directors/) and a former elected member of the [Sierra Club, San Francisco local group](https://www.sierraclub.org/san-francisco-bay/leadership-roster#sf) executive committee.
-
-### Communications & Correspondence
-
-You can follow me [in the fediverse](https://social.sanfranciscan.org/@chema). I also have a more active, more ephemeral presence at [ctrvx.net/chema](https://ctrvx.net/chema). This site and a few other things are on [Github](https://github.com/chema/). You can verify most of these accounts and find my PGP key using [Keyoxide](https://keyoxide.org/chema@sanfranciscan.org).
+You may read more about [your correspondent here](/biography).
