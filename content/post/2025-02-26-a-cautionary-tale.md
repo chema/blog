@@ -1,16 +1,19 @@
 +++
 date = "2025-02-26T08:00:00-08:00"
 timezone = "America/Los_Angeles"
-slug = "a-cautionary-tale"
+slug = "birthright-citizenship-and-europe-a-cautionary-tale"
 title = "Europe is a Cautionary Tale on Birthright Citizenship"
 description = "A Future Without Birthright Citizenship? Europe’s Restrictive Laws Show Us the Consequences."
 tags = ["USA", "Europe", "democracy", "citizenship"]
 image = "/public/img/RacistPoster.jpg"
 images = ["/public/img/RacistPoster.jpg"]
 schemaType = "OpinionNewsArticle"
+aliases = ["/2025/02/26/a-cautionary-tale/"]
 +++
 
 Birthright citizenship is under threat in the United States, and Europe's restrictive laws offer a clear warning of what's at stake.
+
+<figure style="float: right; margin-right: 1.1rem; margin-bottom: 0.9rem; max-width: 30%;"><img src="/public/img/RacistPoster.jpg" alt="A 2004 Swiss People's Party poster opposing two referendums aimed at easing birthright citizenship restrictions for second- and third-generation immigrants. Swiss voters rejected both measures." style="width: 100%; height: auto; display: block;" loading="lazy"><figcaption style="text-align: center; font-size: 0.8rem;">A 2004 Swiss People's Party poster opposing two referendums aimed at easing birthright citizenship restrictions for second- and third-generation immigrants. Swiss voters rejected both measures.</figcaption></figure>
 
 In the U.S., all children born on American soil gain automatic and unconditional citizenship [under the Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/). On the other side of the Atlantic though, [not a single country in Europe grants this unrestricted right](https://www.euronews.com/my-europe/2025/01/29/fact-check-which-european-countries-practice-birthright-citizenship
 ) to children of foreign parents, regardless of immigration status.
@@ -22,8 +25,6 @@ This is exactly what the current U.S. federal administration aims to replicate. 
 ### Europe's Citizenship Model is a Warning, Not an Example  
 
 Like the U.S., many European countries are shifting further to the right on citizenship and integration issues. France's new immigration law, which imposes a French language test for residency [so difficult that even some native French speakers struggle to pass it](https://www.theguardian.com/world/2025/feb/14/french-citizens-would-fail-language-tests-for-foreigners-seeking-residency), is an example of this retrograde trend.
-
-{{< figure src="/public/img/RacistPoster.jpg" caption="A 2004 Swiss People's Party poster opposing two referendums aimed at easing birthright citizenship restrictions for second- and third-generation immigrants. Swiss voters rejected both measures." >}}
 
 I lived for many years in Renens, a small Swiss town where non-Swiss nationals make up more than half the population. Residents deemed "foreign" gain limited political enfranchisement only after meeting [strict residency and integration requirements](https://www.vd.ch/fileadmin/user_upload/organisation/dire/spop/fichiers_pdf/fly-151127-droits-vote-etrangers.pdf)—rights that they can lose if they move too far, lose their job or have their residency permit revoked.
 

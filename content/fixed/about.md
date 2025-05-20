@@ -7,7 +7,7 @@ images:
   - /img/a-san-franciscan-sea-lion-logo-2025-512x512.png
 ---
 
-Welcome to the digital home of Chema Hernández Gil, a foiled engineer, one-time media activist and journalist, and now a full-time union organizer stumping for the working class in San Francisco. This site brings together Writings and meditations on politics, activism, history, and memory.
+Welcome to the digital home of Chema Hernández Gil, a foiled engineer, longtime media activist and journalist, and labor organizer stumping for the working class in San Francisco. This site gathers writings and meditations on politics, activism, history, and personal memory.
 
 ### Why A San Franciscan?
 
